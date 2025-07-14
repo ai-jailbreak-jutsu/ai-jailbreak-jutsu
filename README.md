@@ -1,16 +1,23 @@
-## Hi there 👋
+# 🥷 ai-jailbreak-jutsu
 
-<!--
-**ai-jailbreak-jutsu/ai-jailbreak-jutsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💥 A curated collection of proof-of-concept (PoC) attacks against Large Language Models (LLMs), including prompt injection, model extraction, data leakage, and more.
 
-Here are some ideas to get you started:
+## 🔍 Contents
+- 🧠 Prompt Injection Techniques
+- 📦 Model Extraction PoC
+- 📤 Data Leakage Experiments
+- 🔒 Defense Evasion (LLMGuard, Rebuff, etc.)
+- ⚙️ Automated Prompt Chains (WIP)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 Why this repo?
+This project aims to:
+- Serve as a **public testing ground** for LLM red-teaming
+- Provide **reproducible PoCs** with tools like OpenAI, Ollama, Claude, etc.
+- Promote **responsible disclosure** and awareness
+
+## ⚠️ Disclaimer
+This repository is intended for **educational and ethical purposes only**.  
+**Do not use it on systems you don’t own or have permission to test.**
+
+## 📄 License
+Apache License 2.0 – See [LICENSE](./LICENSE)
